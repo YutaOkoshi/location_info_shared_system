@@ -1,0 +1,16 @@
+ # 「 = 」前後にスペースがあってもなくても問題なし
+; [system]
+; os = Windows
+; version=8
+; path=
+ 
+# 区切りは「 = 」でも「 : 」可
+; [user]
+; name     : python-izm
+; password : 0000
+; mail     : mail@example.com
+
+
+[soracom]
+device_id   : 
+sercret_key : 
